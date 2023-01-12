@@ -1,0 +1,32 @@
+{
+    margin: 0;
+    padding: 0;
+}
+:root {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(193, 255, 210);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 600px;
+    height: 450px;
+    border-radius: 1rem;
+}
+
+#text {
+    margin-left: 3rem;
+    padding-left: 3rem;
+}
+
+#red {
+    color:rgb(193, 24, 24);
+}
